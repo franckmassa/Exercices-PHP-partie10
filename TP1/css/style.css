@@ -1,0 +1,25 @@
+body{
+    background-color: #fbe2e0;
+}
+li{
+    list-style: none;
+}
+h1{
+    background-color: #441020;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px #295135;
+}
+form{
+    box-shadow: 20px 20px 20px #295135;
+    background-color: #241623;
+    border-radius: 20px;
+    color: white;
+}
+@media all and (max-width: 1280px){
+    body{
+        font-size: 16px;
+    }
+    h1{
+        font-size: 18px;
+    }
+}
